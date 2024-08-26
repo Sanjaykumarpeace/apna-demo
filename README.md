@@ -1,2 +1,3 @@
 # apna-demo
-This cis the demo from Apna side.
+This is the demo from Apna side.
+Author- K Sanjay kr.
